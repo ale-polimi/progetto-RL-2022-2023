@@ -3,6 +3,7 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://github.com/ale-polimi/progetto-RL-2022-2023/blob/main/LICENSE)
 
 Prova finale di Reti Logiche per l'anno accademico 2022-2023.
+
 Docente: Palermo Gianluca
 
 **Valutazione**: 26/30
