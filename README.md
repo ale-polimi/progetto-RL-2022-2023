@@ -10,7 +10,10 @@ Docente: Palermo Gianluca
 ## Obiettivo del progetto
 
 L'obiettivo del progetto è quello di creare un modulo descritto in linguaggio VHDL che riceve una sequenza di bit in ingresso, decodifica la sequenza, recupera il dato dalla memoria e lo scrive su una delle quattro uscite disponibili.
+
 La specifica completa è disponibile [qui]().
+
+Le regole del progetto sono disponibili [qui]().
 
 ## Documentazione
 
