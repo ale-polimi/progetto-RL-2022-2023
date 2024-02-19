@@ -21,9 +21,9 @@ La documentazione per il progetto è disponibile [qui](https://github.com/ale-po
 
 ## Strumenti utilizzati
 
-|||
-|-----|-----|
-| Linguaggio | VHDL |
+| Descrizione       | Strumento              |
+|-------------------|------------------------|
+| Linguaggio        | VHDL                   |
 | Suite di sviluppo | Xilinx Vivado v.2016.4 |
 
 ## Copyright e licenza
